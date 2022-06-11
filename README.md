@@ -1,4 +1,8 @@
-### Hi there 👋
+###### Hi there 👋
+
+###🌱About me
+ I'm a beginner Python developer and NUST MISIS student
+
 
 <!--
 **4bur3k/4bur3k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
