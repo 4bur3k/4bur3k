@@ -3,11 +3,14 @@
 </div>
 
 <div id="bages" align="center">
- <a href="t.me/jpnmma">
+ <a href="https://t.me/jpnmma">
   <img src="https://simpleicons.org/icons/telegram.svg" width="30" hspace=10>
  </a>
+ <a href="(https://vk.com/xxx_mctutejlb_xxx">
+  <img src="https://simpleicons.org/icons/vk.svg" width="30" hspace=10>
+ </a>
  </div>
-
+ 
 ### <p align="center"> hi there👋</p>
 
 ### <p align="center">🌱 About me:<p>
