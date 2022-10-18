@@ -1,6 +1,4 @@
-<div id="header" align = "center">
- <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width=200 hspace=10>
-</div>
+
 
 <div id="bages" align="center">
  <a href="https://t.me/jpnmma">
@@ -18,7 +16,7 @@
 
 ---
 
-### 🌱 About me: 
+### About me: 
 
    I'm a beginner developer and NUST MISIS student from Russia
 
@@ -36,11 +34,11 @@
  
 ---
 
-### 🤓 I'm learning:
+### 🌱 I'm learning:
 
  * <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="25" hspace=5/>  <b>pyTorch</b> 
 
-
+---
 
 ### 📖 I'm reading:
 * ML by Yandex School of Data Analysis
