@@ -25,7 +25,7 @@
  ### 🛠 Languages and Tools :
 <div id="content" align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" hspace=10/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="25" hspace=5/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40" hspace=10/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" hspace=10/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" width="40" hspace=10/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="40" hspace=10/>
