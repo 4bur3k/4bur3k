@@ -18,7 +18,7 @@
 
 ### About me: 
 
-   I'm a junior MLE and NUST MISIS student from Russia
+   I'm a Middle MLE and NUST MISIS student from Russia
 
 ---
   
